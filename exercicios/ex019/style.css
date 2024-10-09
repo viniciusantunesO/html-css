@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(160, 240, 213);
+}
+
+h1 {
+    color: rgb(169, 199, 189);
+}
+
+h1#principal{
+    color: blue;
+    text-align: center;
+}
+
+.chatoo {
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.verdao {
+    text-align: right;
+    text-decoration: underline;
+}

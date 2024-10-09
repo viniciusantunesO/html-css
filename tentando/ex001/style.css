@@ -1,0 +1,94 @@
+header {
+    background-color:#49A8DB;
+    padding: 20px;
+    
+}
+
+body {
+    margin: 0px;
+}
+
+header p{
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.imagem img{
+    width: 150px;
+    vertical-align: middle;
+}
+
+header p, .imagem{
+    display: inline-block;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+section {
+    background-color: #0172af;
+    padding: 10px;
+    height: 100px;
+}
+
+section p{
+    margin: 0;
+}
+
+.internet img{
+    width: 20px;
+    vertical-align: middle;
+}
+
+.telefone img{
+    width: 20px;
+    vertical-align: middle;
+}
+
+.telefone p, .telefone img{
+    display: inline-block;
+}
+
+.email img{
+    width: 20px;
+    vertical-align: middle;
+}
+
+.email p, .email img{
+    display: inline-block;
+}
+
+#comeco {
+    width: 1200px;
+}
+
+#comeco img{
+    padding: 20px;
+    float: left;
+    width: 450px;
+}
+
+#comeco p{
+    font-size: 25px;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+#canal p{
+    font-size: 24px;
+    font-weight: 700;
+    color: #0092FF;
+}
+
+#canal img{
+    width: 50px;
+    padding: 0px;
+}
+
+#canal {
+    display: inline-block;
+    width: 1000px;
+}
